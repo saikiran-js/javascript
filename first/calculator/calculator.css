@@ -1,0 +1,21 @@
+button{
+    color: rgb(0, 0, 0);
+
+    width:100px;
+    height:100px;
+    background-color: rgb(196, 219, 230);
+}
+button:hover{
+    color:rgb(106, 184, 221);
+    background-color: white;
+}
+#answer{
+    width: 300px;
+    height: 100px;
+    background-color: bisque;
+}
+.container{
+    background-color: rgb(223, 120, 249);
+    align-items: center;
+    justify-content: center;
+}
